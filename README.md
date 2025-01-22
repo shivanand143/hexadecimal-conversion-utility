@@ -55,7 +55,7 @@ Follow these steps to set up the application:
 
 ### 🎨 User Interface Example
 
-(*Include a screenshot of the application window here for better understanding.*)
+![Hexadecimal Conversion Utility Interface](https://raw.githubusercontent.com/shivanand143/hexadecimal-conversion-utility/refs/heads/main/Screenshot%202025-01-20%20012735.png)
 
 The app features:  
 - **Input Field**: To accept hexadecimal or Base64 values.  
